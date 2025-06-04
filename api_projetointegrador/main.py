@@ -1,3 +1,4 @@
+#c´´odigo da api
 from fastapi import FastAPI, Request # importa as bibliotecas
 from pydantic import BaseModel
 import random
